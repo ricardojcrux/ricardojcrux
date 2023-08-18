@@ -48,5 +48,5 @@ Now, I am studing *software development* and my goal is to work as ***Data Scien
 
 ### Statistics 📊
 
-![Ricardojcrux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardojcrux&hide_rank=true&show_icons=true&theme=holi&hide_border=true&border_radius=50)
+![Ricardojcrux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardojcrux&custom_title=Ricardo%0AZapata's%0AGitHub%0AStats&hide_rank=true&show_icons=true&theme=holi&hide_border=true&border_radius=50)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcrux&layout=compact&show_icons=true&theme=holi&hide_border=true&border_radius=50)
