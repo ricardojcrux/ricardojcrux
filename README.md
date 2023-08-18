@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi there, Welcome to my homepage 👋
 
 ![coding](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif "Coding")
+
+</div>
 
 ## About me! 🔍
 
@@ -16,7 +20,7 @@ Now, I am studing *software development* and my goal is to work as ***Data Scien
 
 ### I use this languages to create ✨.
 
-<center>
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,11 +32,11 @@ Now, I am studing *software development* and my goal is to work as ***Data Scien
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-</center>
+</div>
 
 ### I'm learning right now! 🧠
 
-<center>
+<div align="center">
 
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,14 +44,14 @@ Now, I am studing *software development* and my goal is to work as ***Data Scien
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-</center>
+</div>
 
 ### Statistics 📊
 
-<center>
+<div align="center">
 
 ![Ricardojcrux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardojcrux&show_icons=true&theme=holi&hide_border=true&border_radius=50)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcrux&layout=compact&show_icons=true&theme=holi&hide_border=true&border_radius=50)
 
-</center>
+</div>
