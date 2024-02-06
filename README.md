@@ -12,6 +12,10 @@ Hi, my name is **Ricardo Zapata**, I am 25 years old and I love coding and solvi
 
 Now, I am studing *software development* and my goal is to work as ***Data Scientist*** , using my knowledge in **Python and Maths**
 
+Meanwhile, I am creating webpages for customers:
+
+- **[Construservis Alfa y Omega](https://construservisalfayomega.com)**
+
 ### 📍 Find me!
 
 - Always learning in **[Platzi](https://platzi.com/p/ricardojcrux/)**
@@ -32,6 +36,7 @@ Now, I am studing *software development* and my goal is to work as ***Data Scien
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </div>
 
@@ -39,10 +44,12 @@ Now, I am studing *software development* and my goal is to work as ***Data Scien
 
 <div align="center">
 
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
 
