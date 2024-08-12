@@ -8,7 +8,7 @@
 
 ## About me! 🔍
 
-Hi, my name is **Ricardo Zapata**, I am 25 years old and I love coding and solving problems *creating applications*
+Hi, my name is **Ricardo Zapata**, I am 26 years old and I love coding and solving problems *creating applications*
 
 Now, I am studing *software development* and my goal is to work as ***Data Scientist*** , using my knowledge in **Python and Maths**
 
@@ -21,6 +21,7 @@ Meanwhile, I am creating webpages for customers:
 - Always learning in **[Platzi](https://platzi.com/p/ricardojcrux/)**
 - Talking and sharing **info about coding** in *[Twitter](https://twitter.com/ricardojcrux)*
 - Creating my **professional profile** in *[LinkedIn](https://www.linkedin.com/in/ricardojcrux/)*
+- See my **web developer portfolio** *[Here](https://ricardojcrux.github.io/portfolio/)* 
 
 ### I use this languages to create ✨.
 
